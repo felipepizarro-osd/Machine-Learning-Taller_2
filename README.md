@@ -14,7 +14,7 @@ También necesitarás varias bibliotecas de Python, las cuales puedes instalar u
 Para obtener los archivos necesarios para este taller, deberás clonar el repositorio de GitHub. Puedes hacer esto utilizando la siguiente línea de comando en tu terminal:
 
 
-Asegúrate de reemplazar `URL_DEL_REPOSITORIO` con la URL real del repositorio de GitHub.
+Asegúrate de reemplazar `https://github.com/felipepizarro-osd/Machine-Learning-Taller_2.git` con la URL real del repositorio de GitHub.
 
 ## Inicio del Taller
 
